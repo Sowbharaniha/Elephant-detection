@@ -8,4 +8,7 @@ models/*.h5
 
 # VSCode settings
 .vscode/
+
+# Dependencies
 /venv
+/models
