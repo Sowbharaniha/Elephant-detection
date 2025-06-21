@@ -1,0 +1,11 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Dataset & model files
+data/
+models/*.h5
+
+# VSCode settings
+.vscode/
+/venv
